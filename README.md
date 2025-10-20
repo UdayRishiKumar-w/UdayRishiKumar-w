@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uday Rishi Kumar</h1>
 <h3 align="center">Frontend | React JS | Vue JS | JavaScript | TypeScript | UI Developer | Expertise in Building Scalable, Responsive and High-Performance Web Apps</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=007bff&width=435&lines=Software+Engineer;Fullstack+Developer;Tech+Enthusiast;Continuous+Learner;Passionate+Coder;Performance+Optimizer;Security+Conscious+Developer;Collaborative+Team+Player;User-centered+Developer;Quality+Advocate;Debugging+Expert;Scalable+Systems+Builder" alt="Typing SVG" />
-</div>
-
 - 👨‍💻 All of my projects are available at [https://github.com/UdayRishiKumar-w?tab=repositories](https://github.com/UdayRishiKumar-w?tab=repositories)
 
 - 📫 How to reach me **<udayrishi.ganji.w@gmail.com>**
