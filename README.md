@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Rishi Kumar</h1>
-<h3 align="center">Frontend | React JS | Vue JS | JavaScript | TypeScript | UI Developer | Expertise in Building Scalable, Responsive and High-Performance Web Apps</h3>
+<h3 align="center">Full-stack | React JS | Vue JS | Spring Boot | TypeScript | Java | Backend | UI Developer | Crafting Scalable, Responsive & High-Performance Applications</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/UdayRishiKumar-w?tab=repositories](https://github.com/UdayRishiKumar-w?tab=repositories)
 
